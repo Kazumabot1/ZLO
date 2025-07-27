@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Will You Be My Valentine?</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Will you be my Valentine? 💘</h1>
+    <div class="buttons">
+      <button class="yes-btn">Yes ❤️</button>
+      <button class="no-btn">No 😢</button>
+    </div>
+    <img src="..//images/images (2).jfif" alt="cute cat" class="cat" />
+  </div>
+
+  <!-- Confetti library (optional) -->
+  <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
+  <script src="..//JS/script.js"></script>
+</body>
+</html>
